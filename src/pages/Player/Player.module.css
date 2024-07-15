@@ -1,0 +1,77 @@
+.conteudo {
+    padding-left: 42px;
+    padding-right: 42px;
+    padding-top: 38px;
+    padding-bottom: 50px;
+}
+
+.containerVideo {
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 59%;
+    position: relative;
+}
+
+.video {
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
+}
+
+.titulo {
+    text-align: center;
+    padding-left: 32px;
+    padding-right: 32px;
+    font-size: 2.5rem;
+}
+
+.descricao {
+    padding-left: 47px;
+    padding-right: 47px;
+    font-size: 1.5rem;
+    font-weight: 300;
+    text-align: justify;
+}
+
+
+@media (max-width: 1023px) {
+    .titulo {
+        font-size: 1.8rem;
+    }
+
+    .descricao {
+        font-size: 1.3rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .conteudo {
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 0px;
+        padding-bottom: 15px;
+    }
+    .titulo {
+        font-size: 1.2rem;
+    }
+
+    .descricao {
+        padding-left: 24px;
+        padding-right: 24px;
+        font-size: 0.9rem;
+    }
+}
+@media (max-width: 400px) {
+    .titulo {
+        font-size: 1rem;
+    }
+
+    .descricao {
+        padding-left: 5px;
+        padding-right: 5px;
+        font-size: 0.7rem;
+    }
+}
+

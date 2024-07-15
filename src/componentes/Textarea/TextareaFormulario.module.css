@@ -1,0 +1,26 @@
+.textarea {
+    font-family: var(--fonteSecundaria);
+    font-weight: 600;
+    font-size: 1.25rem;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    gap: 15px;
+}
+
+.campoInput {
+    padding: 10px;
+    padding-right: 2px;
+    border: 3px solid var(--fundo);
+    border-radius: 10px;
+    background-color: transparent;
+    color: var(--corFonteInput);
+    font-size: 1.25rem;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    outline: 0;
+}
+
+.campoInput:focus {
+    border-color: var(--corFonte_secundaria);
+}

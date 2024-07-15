@@ -1,0 +1,127 @@
+.overley {
+    background-color: rgba(0, 0, 0, 0.7);
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.modal {
+
+    width: 50%;
+    background-color: var(--corModalEscuro);
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-bottom: 84px;
+    padding-top: 84px;
+    border: 5px solid var(--corModalClaro);
+    position: absolute;
+    top: 150px;
+}
+
+
+.modal h1 {
+    font-size: 3.75rem;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 15px;
+    margin: 0;
+    color: var(--corModalClaro);
+}
+
+.sessaoCampos h2 {
+    font-size: 2.25rem;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    margin: 0;
+    padding-bottom: 60px;
+}
+
+.campos {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 30px;
+    flex-shrink: auto;
+}
+
+.botoes {
+    display: flex;
+    gap: 30px;
+    padding-top: 60px;
+    justify-content: space-between;
+}
+
+
+label {
+    color: var(--corFonte_primaria);
+}
+
+.iconeFechar {
+    color: var(--corFonte_primaria);
+    font-size: 50px;
+    position: absolute;
+    right: 0%;
+    top: 3%;
+    left: 93%;
+    bottom: 95%;
+
+}
+
+@media (max-width: 1023px) {
+    .modal {
+        width: auto;
+        margin-left: 80px;
+        margin-right: 80px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
+
+    .iconeFechar {
+        top: 2%;
+        left: 90%;
+        font-size: 45px;
+    }
+
+}
+
+@media (max-width: 767px) {
+    .modal {
+        width: auto;
+        margin-left: 27px;
+        margin-right: 27px;
+        padding-left: 12px;
+        padding-right: 12px;
+        padding-bottom: 60px;
+        padding-top: 60px;
+
+    }
+
+    .modal h1 {
+        font-size: 2rem;
+    }
+
+    .iconeFechar {
+        top: 2%;
+        left: 89%;
+        font-size: 40px;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .iconeFechar {
+        top: 1%;
+        left: 85%;
+        font-size: 40px;
+    }
+}
+
+@media (max-width: 400px) {
+    .botoes {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}

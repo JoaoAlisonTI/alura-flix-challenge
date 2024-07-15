@@ -1,0 +1,139 @@
+
+   [
+        {
+          "id": 1,
+          "titulo": "O que faz uma desenvolvedora front-end?",
+          "descricao": "O que é Front-end? Trabalhando na área os termos HTML, CSS e JavaScript fazem parte da rotina das desenvolvedoras e desenvolvedores. Mas o que eles fazem, afinal?",
+          "imagem": "https://i.ytimg.com/vi/ZY3-MFxVdEw/mqdefault.jpg",
+          "link": "https://www.youtube.com/embed/ZY3-MFxVdEw",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 2,
+          "titulo": "Como testar seu Front-end? com Mario Souto",
+          "descricao": "Por onde começar a testar as habilidades em Front-end? Se você tem dúvidas na hora de testar softwares e colocar em prática técnicas modernas, esse vídeo vai te ajudar.",
+          "imagem": "https://i.ytimg.com/vi/CaTbfdsVydE/hqdefault.jpg",
+          "link": "https://www.youtube.com/embed/CaTbfdsVydE",
+          "categoria": "FRONT END"
+        },
+        {
+          " id:": 3,
+          "titulo": "Guia de carreira Front-end",
+          "descricao": "Nesse episódio, confira o que é front-end e como seguir nessa área da tecnologia, através do Tech Guide front-end, um Guia de Estudos do iniciante ao avançado.",
+          "imagem": "https://i.ytimg.com/vi/fpth65ts3cw/hqdefault.jpg",
+          "link": "https://www.youtube.com/embed/fpth65ts3cw?",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 4,
+          "titulo": "Métricas para o Front End com Mario Souto",
+          "descricao": "Neste vídeo o Paulo Silveira e o @DevSoutinho batem um papo sobre as métricas que não podem ser esquecidas em um bom site.",
+          "imagem": "https://i.ytimg.com/vi/iVNR-6v8lZU/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/iVNR-6v8lZU?s",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 5,
+          "titulo": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+          "descricao": "O que faz uma desenvolvedora Back-end? com Juliana Amoasei",
+          "imagem": "https://i.ytimg.com/vi/fiPfvylj6rk/hqdefault.jpg",
+          "link": "https://www.youtube.com/embed/fiPfvylj6rk",
+          "categoria": "BACK END"
+        },
+        {
+          "id": 6,
+          "titulo": "Como se tornar um desenvolvedor BACKEND?",
+          "descricao": "Recentemente fiz um video passo a passo sobre como se tornar um desenvolvedor Frontend e atendendo a pedidos, volto aqui com um passo a passo, um RoadMap de tudo que você precisa saber para se tornar um desenvolvedor Backend. ",
+          "imagem": "https://i.ytimg.com/vi/wXMlMsDvk2M/sddefault.jpg",
+          "link": "https://www.youtube.com/embed/wXMlMsDvk2M",
+          "categoria": "BACK END"
+        },
+        {
+          "id": 7,
+          "titulo": "Como Estudar PROGRAMAÇÃO | Guia Back-End",
+          "descricao": "Quer ser um desenvolvedor back-end? Hoje vamos falar um pouco sobre o que é necessário estudar para você se tornar um programador back-end.",
+          "imagem": "https://i.ytimg.com/vi/LbKDxQ0jX90/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/LbKDxQ0jX90",
+          "categoria": "BACK END"
+        },
+        {
+          "id": 8,
+          "titulo": "Diferença entre Back-End e Front-End com Mario Souto",
+          "descricao": "Qual a diferença entre Back-end e Front-end? É possível se especializar nas duas áreas? Como é a rotina desses profissionais e com quais outras áreas da tecnologia acabam se relacionando? ",
+          "imagem": "https://i.ytimg.com/vi/xrRy3RI3HE4/sddefault.jpg",
+          "link": "https://www.youtube.com/embed/xrRy3RI3HE4",
+          "categoria": "FRONT END"
+        },
+        {
+          "id": 9,
+          "titulo": "Gestão empresarial. O que é?",
+          "descricao": "Gestão empresarial. O que é? Veja 7 dicas muito simples para trabalhá-la do jeito certo.",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK-EEFphxoAxPQfyqkPwgC13hlXIEC6uBYwg&s",
+          "link": "https://www.youtube.com/embed/ejZ9DKnKrYM",
+          "categoria": "GESTÃO"
+        },
+        {
+          "id": 10,
+          "titulo": "As 10 Inovações tecnológicas que transformarão o mundo em 2024",
+          "descricao": "Neste vídeo emocionante, mergulhamos no mundo da Inteligência Artificial e exploramos as 10 inovações revolucionárias de IA previstas para revolucionar o cenário tecnológico em 2024 e 2025",
+          "imagem": "https://i.ytimg.com/vi/Qxe07BWpkWk/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/Qxe07BWpkWk",
+          "categoria": "INOVAÇÃO"
+        },
+        {
+          "id": 11,
+          "titulo": "Tecnologia e Inovação",
+          "descricao": "O episódio “Tecnologia e Inovação” aborda o fenômeno da revolução tecnológica e a democratização do acesso à informação no mundo.",
+          "imagem": "https://i.ytimg.com/vi/3_KCMvCIcPw/mqdefault.jpg",
+          "link": "https://www.youtube.com/embed/3_KCMvCIcPw",
+          "categoria": "INOVAÇÃO"
+        },
+        {
+          "id": 12,
+          "titulo": "Criatividade e inovação no trabalho.",
+          "descricao": "Criatividade e inovação no trabalho. Toda Importância para se destacar no mercado.",
+          "imagem": "https://abriminhaempresa.com/wp-content/uploads/2023/10/Criatividade-e-Inovacao-no-Trabalho.jpg",
+          "link": "https://www.youtube.com/embed/6Q94wOEiO84",
+          "categoria": "INOVAÇÃO"
+        },
+        {
+          "id": 13,
+          "titulo": "Gestão de negócios. O que é?",
+          "descricao": "Gestão de negócios. O que é? Veja em 10 pilares obrigatórios na gestão de negócios.",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8bc7VDLolorspZCaB74Cjz5fayekyOMf0YA&s",
+          "link": "https://www.youtube.com/embed/roy-pY7pmwM",
+          "categoria": "GESTÃO"
+        },
+        {
+          "id": 14,
+          "titulo": "O Papel da Tecnologia - Papo de Gestão",
+          "descricao": "O Papel da Tecnologia é o quinto vídeo da playlist Papo de Gestão. Nessa playlist trazemos de forma leve e bem desenvolvida a visão do nosso fundador Marcelo Andrade sobre um tema relevante de gestão.",
+          "imagem": "https://i.ytimg.com/vi/h9itM7UYdw0/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/h9itM7UYdw0",
+          "categoria": "GESTÃO"
+        },
+        {
+          "id": 15,
+          "titulo": "Steven Johnson: Como nasce a inovação",
+          "descricao": "A inovação não vem em um momento 'eureka'. São mais de 20 anos pesquisando e escrevendo sobre inovações. ",
+          "imagem": "https://i.ytimg.com/vi/2A8qwMaxhfc/hqdefault.jpg",
+          "link": "https://www.youtube.com/embed/2A8qwMaxhfc",
+          "categoria": "INOVAÇÃO"
+        },
+        {
+          "id": 16,
+          "titulo": "Diferentes carreiras em tecnologia",
+          "descricao": "Conheça várias das mais diversas carreiras dentro da área de tecnologia, além de programação, e aproveite também para conhecer a EBAC, que inclusive oferece diversos cursos dessas profissões comentadas no vídeo!",
+          "imagem": "https://i.ytimg.com/vi/3gPZ02Iqr-0/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/3gPZ02Iqr-0?si",
+          "categoria": "GESTÃO"
+        },
+        {
+          "id": 17,
+          "titulo": "ADS ou Gestão de TI? Qual carreira escolher na tecnologia?",
+          "descricao": "Estou pensando em trabalhar com gestão de pessoas em tecnologia, qual curso é mais recomendado? Análise e Desenvolvimento de Sistemas (ADS) ou Gestão de TI?",
+          "imagem": "https://i.ytimg.com/vi/jn8sVHk950w/maxresdefault.jpg",
+          "link": "https://www.youtube.com/embed/jn8sVHk950w",
+          "categoria": "GESTÃO"
+        }
+      ]

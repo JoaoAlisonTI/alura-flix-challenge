@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1000,
+        "nome": "FRONT END",
+        "cor": "#6BD1FF"
+    },
+    {
+        "id": 2000,
+        "nome": "BACK END",
+        "cor": "#00C86F"
+    },
+    {
+        "id": 3000,
+        "nome": "INOVAÇÃO",
+        "cor": "#FFBA05"
+    },
+    {
+        "id": 4000,
+        "nome": "GESTÃO",
+        "cor": "#F96DC3"
+    }
+]

@@ -1,0 +1,150 @@
+.fundo {
+    width: 100%;
+    height: 832px;
+    position: relative;
+}
+
+.item{
+    display: flex;
+    position: relative;
+    top: 25%;
+    left: 5%;
+    width: 90%;
+    height: auto;
+    gap: 50px;
+}
+
+.previosAndNex {
+    font-size: 70px;
+    cursor: pointer;
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    top: 35%;
+    left: 0%;
+    right: 0%;
+    width: 100%;
+    color: var(--corFonte_secundaria);
+}
+
+.icone {
+    background-color: rgba(128, 128, 128, 0.1);
+}
+
+.icone:hover {
+    background-color: rgba(128, 128, 128, 0.5);
+}
+
+.imagem {
+    width: 646px;
+    height: 383px
+}
+
+.minibanner {
+    border: 4px solid;
+    width: 646px; 
+    height: 383px;
+    position: relative;
+}
+
+.divImg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    box-shadow: inset 0 0 17px 8px;
+}
+
+
+iframe {
+    border: 4px solid;
+    color: var(--corFonte_secundaria);
+}
+
+.item h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    text-align: center;
+    border: transparent;
+    border-radius: 15px;
+    width: auto;
+    max-width: 100%;
+    padding: 20px;
+    display: inline;
+}
+
+.item h2 {
+    font-size: 2rem;
+    font-weight: 400;
+    margin-top: 40px;
+    margin-bottom: 9px;
+}
+
+.item p {
+    font-size: 1.5rem;
+    font-weight: 300;
+    margin: 0;
+}
+
+@media (max-width: 1270px) {
+    .fundo {
+        height: 650px;
+    }
+    .item h1 {
+        font-size: 2rem;
+    }
+    .item h2 {
+        font-size: 1.5rem;
+    }
+    .item p {
+        font-size: 1.2rem;
+    }
+    .imagem {
+        width: 450px;
+        height: 290px
+    }
+    .minibanner {
+        width: 646px; 
+        height: 290px;
+    }
+    .previosAndNex {
+        font-size: 65px;
+    }
+}
+
+@media (max-width: 1023px) {
+    .fundo {
+        height: 570px;
+    }
+    .item{
+        top: 20%;
+        gap: 10x;
+    }
+    .item h1 {
+        font-size: 1.3rem;
+    }
+    .item h2 {
+        font-size: 1.2rem;
+    }
+    .item p {
+        font-size: 0.8rem;
+    }
+    .minibanner {
+        width: 450px; 
+        height: 333px;
+    }
+    .previosAndNex {
+        font-size: 50px;
+    }
+}
+
+@media (max-width: 767px) {
+    .container {
+        display: none;
+    }
+}
+@media (max-width: 400px) {
+ 
+}

@@ -1,0 +1,11 @@
+.container {
+    height: 80vh;
+    align-content: center;
+    text-align: center;
+    font-size: 1.5rem;
+}
+
+.icone {
+    font-size: 10rem;
+    color: yellow;
+}

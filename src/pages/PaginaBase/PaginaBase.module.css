@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    flex-direction: column;
+}
+
+@media (max-width: 767px) {
+    .cabecalho {
+       display: none;
+    } 
+}

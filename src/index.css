@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,200..900;1,200..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+:root {
+  --fontePrimaria: 'Roboto', sans-serif;
+  --fonteSecundaria: 'Source Sans 3', sans-serif;
+  --fundo: #262626;
+  --fundoFundo: #191919;
+  --fundoEscuro: #000000;
+  --corFonte_primaria: #ffffff; 
+  --corFonte_secundaria:#2271D1;
+  --cor_back: #00C86F;
+  --cor_front: #6BD1FF;
+  --cor_mobile: #FFBA05;
+  --label_active: #E53935;
+  --label: #A5A5A5;
+  --corFonteInput: #A5A5A5;
+  --corBordaAtivaFormErro: #E53935;
+  --corFundoForm: #191919;
+  --corModalEscuro: #03122F;
+  --corModalClaro: #2271D1;
+  --boxShadow: #2271D1B2;
+}
+
+body {
+  background-color: var(--fundoEscuro);
+  color: var(--corFonte_primaria);
+  margin: 0;
+  font-family: var(--fontePrimaria);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

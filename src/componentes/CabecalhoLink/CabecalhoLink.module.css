@@ -1,0 +1,21 @@
+.link {
+    text-decoration: none;
+    color: var(--corFonte_primaria);
+    font-family: var(--fonteSecundaria);
+    font-size: 1.25rem;
+    font-weight: 900;
+    border: 2px solid var(--corFonte_primaria);
+    border-radius: 15px;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 180px;
+    height: 54px;
+}
+
+.link .link:checked + .name{
+    color: var(--corFonte_secundaria);
+    border-color: var(--corFonte_secundaria);
+}

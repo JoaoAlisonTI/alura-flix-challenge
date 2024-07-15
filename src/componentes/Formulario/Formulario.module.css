@@ -1,0 +1,104 @@
+.formulario {
+    width: 100%;
+    background-color: var(--fundoFundo);
+    padding-bottom: 20px;
+    padding-top: 71px;
+}
+
+.cabecalho h1 {
+    font-size: 3.75rem;
+    font-weight: 900;
+    text-align: center;
+    padding-top: 0;
+    padding-bottom: 15px;
+    margin: 0;
+}
+
+.cabecalho p {
+    font-size: 1.25rem;
+    font-weight: 400;
+    text-align: center;
+    margin: 10px;
+    text-transform: uppercase;
+}
+
+.sessaoCampos h2 {
+    font-size: 2.25rem ;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    margin: 0;
+    padding-bottom: 60px;
+}
+
+.sessaoCampos {
+    padding-left: 134px;
+    padding-right: 134px;
+    padding-top: 47px;
+    padding-bottom: 71px;
+}
+
+.campos {
+    display: flex;
+    flex-direction: wrap;
+    flex-wrap: wrap;
+    gap: 30px;
+    flex-shrink: auto;
+}
+
+.botoes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    padding-top: 60px;
+}
+
+
+@media (max-width: 1023px) {
+    .cabecalho h1 {
+        font-size: 2.5rem;
+    }
+    .sessaoCampos {
+        padding-left: 50px;
+        padding-right: 50px;
+        padding-top: 25px;
+        padding-bottom: 25px;
+    }
+    
+.cabecalho p {
+    font-size: 1rem;
+}
+
+.sessaoCampos h2 {
+    font-size: 2rem ;
+    font-weight: 600;
+    font-family: var(--fonteSecundaria);
+    margin: 0;
+    padding-bottom: 60px;
+}
+}
+
+@media (max-width: 767px) {
+    .formulario {
+        padding-bottom: 90px;
+        padding-top: 40px;
+    }
+    .sessaoCampos {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+    .botoes{
+        justify-content:center;
+    }
+}
+
+
+@media (max-width: 500px) {
+    .formulario {
+        padding-bottom: 150px;
+    }
+    .sessaoCampos {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+}
+
